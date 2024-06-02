@@ -129,7 +129,6 @@ em {
   position: absolute;
   top: 17px;
   right: 20px;
- 
 }
 
 .lastName_image {
@@ -271,12 +270,10 @@ small span {
     top: 15px;
     right: 40px;
     cursor: pointer;
-    
   }
-  em{
-    font-size:.6rem;
+  em {
+    font-size: 0.6rem;
   }
-
 
   .email_image,
   .fristname_image,
@@ -285,6 +282,5 @@ small span {
     position: absolute;
     top: 13px;
     right: 10px;
-   
   }
 }
